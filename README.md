@@ -1,4 +1,4 @@
-🦫 Capybara — Blockchain-based Product Tracker
+🦫 CapybaraTrack — Blockchain-based Product Tracker
 Capybara is a decentralized product traceability system designed to bring transparency, trust, and security to supply chains. By leveraging blockchain technology, Capybara allows businesses and consumers to track the full journey of any product from origin to delivery, ensuring authenticity and reducing fraud.
 
 🚀 Features
@@ -19,7 +19,7 @@ Clone this repo
 
 bash
 Copier le code
-git clone https://github.com/your-username/capybara.git
+git clone https://github.com/chaima/ProductTraceability.git
 cd capybara
 Install Dependencies
 

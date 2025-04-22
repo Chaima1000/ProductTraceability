@@ -1,0 +1,16 @@
+{
+    "name": "product-traceability",
+    "version": "1.0.0",
+    "description": "A blockchain-based product traceability project",
+    "scripts": {
+        "start": "lite-server",
+        "compile": "truffle compile",
+        "migrate": "truffle migrate",
+        "test": "truffle test"
+    },
+    "dependencies": {
+        "@truffle/contract": "^4.5.0",
+        "lite-server": "^2.6.1",
+        "web3": "^4.16.0"
+    }
+}
